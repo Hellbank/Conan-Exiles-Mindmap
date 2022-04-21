@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "302c07f76074f244",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dfe7c2e01066712",
+        "type": "leaf",
+        "dimension": 57.33504163997437,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Global Change Logs.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "548f578862edda95",
+        "type": "leaf",
+        "dimension": 42.66495836002562,
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81a898b3154463f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f224078fb045dc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65ea63d67671b69d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "518952c8de263195",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#aab",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299
+  },
+  "right": {
+    "id": "514e9e849b8152e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9887e52e35a1231c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28940d49ae5dfcf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Global Change Logs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1669afb560adb31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Global Change Logs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9dfe7c2e01066712",
+  "lastOpenFiles": [
+    "Global Change Logs.md",
+    "(ignore)/PageSample.md",
+    "Contribute!/Briefing.md",
+    "Contribute!/Settings.md",
+    "Contribute!/Protocols.md",
+    "Contribute!/Get Started!.md",
+    "Authors/Hellbank.md",
+    "Start/Search Table.md",
+    "Start/Introduction.md",
+    "Contribute!/Templates Repository/Insert Segments/Committed Change Logs.md"
+  ]
+}
