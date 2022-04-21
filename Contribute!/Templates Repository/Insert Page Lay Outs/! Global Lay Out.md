@@ -25,7 +25,7 @@ ___
 ___
 %%Write your content between the headers Content and Change Logs.%%
 
-*Write here (remove this)*
+*Write here (remove this line)*
 
 [[#Overview]]
 %%End. Add your changes to the Change Logs. Insert a segment Detailed Change Log.%%

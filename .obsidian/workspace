@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Global Change Logs.md",
-            "mode": "preview",
+            "file": "Start/Cue.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Change Logs.md",
+                "file": "Start/Cue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Change Logs.md",
+                "file": "Start/Cue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +113,15 @@
   },
   "active": "9dfe7c2e01066712",
   "lastOpenFiles": [
+    "Start/Cue.md",
+    "Gameplay/Cue.md",
+    "Development/Tutorials/Cue.md",
+    "Development/Devkit Map/Templates/Cue.md",
+    "Development/Devkit Map/Base Game Structure/Cue.md",
+    "Development/Debug/Cue.md",
+    "Contribute!/Templates Repository/Insert Page Lay Outs/! Global Lay Out.md",
     "Global Change Logs.md",
     "(ignore)/PageSample.md",
-    "Contribute!/Briefing.md",
-    "Contribute!/Settings.md",
-    "Contribute!/Protocols.md",
-    "Contribute!/Get Started!.md",
-    "Authors/Hellbank.md",
-    "Start/Search Table.md",
-    "Start/Introduction.md",
-    "Contribute!/Templates Repository/Insert Segments/Committed Change Logs.md"
+    "Contribute!/Briefing.md"
   ]
 }
